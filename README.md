@@ -38,4 +38,4 @@ npm run dev
 npm run build
 
 
-## Watch these my yotube videos here - (https://www.youtube.com/@mnccracker5421)
+## Watch these my yotube videos here - https://youtu.be/KjQmGneNrrs
